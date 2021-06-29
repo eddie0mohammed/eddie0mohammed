@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello 👋
+I'm Mo, a software developer specialized in Frontend development
+
+Portfolio: https://moedun.com
+
 
 <!--
 **eddie0mohammed/eddie0mohammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
