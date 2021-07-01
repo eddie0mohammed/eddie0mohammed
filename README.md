@@ -2,16 +2,12 @@
 
 [![Website](https://img.shields.io/website?label=moedun.com&style=for-the-badge&url=https%3A%2F%2Fmoedun.com)](https://moedun.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/me3dun?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Feddie0mohammedr&screen_name=Me3dun)
-<!-- [linkedin]: https://linkedin.com/in/moedun -->
 
 
 ### Connect with me:
 
-<!-- [<img align="left" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-<!-- <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />(https://twitter.com/Me3dun) -->
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />(https://linkedin.com/in/moedun)
-<!-- [<img align="left" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 ### Languages and Tools:
@@ -31,6 +27,7 @@
 
 
 [twitter]:https://twitter.com/Me3dun
+[linkedin]:https://linkedin.com/in/moedun
 
 <!--
 **eddie0mohammed/eddie0mohammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
