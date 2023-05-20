@@ -1,4 +1,4 @@
-### Hi there, I'm Mo. I specialize in Frontend development 👋
+### Hi there, I'm Mohamed. I specialize in Frontend development 👋
 
 [![Website](https://img.shields.io/website?label=moedun.com&style=for-the-badge&url=https%3A%2F%2Fmoedun.com)](https://moedun.com)
 
