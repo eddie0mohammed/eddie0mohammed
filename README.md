@@ -1,12 +1,7 @@
-### Hi there, I'm Mohamed. I specialize in Frontend development 👋
-
-[![Website](https://img.shields.io/website?label=moedun.com&style=for-the-badge&url=https%3A%2F%2Fmoedun.com)](https://moedun.com)
-
+### Hi there, I'm Mohamed. I am a Software Enginner 👋
 
 
 ### Connect with me:
-
-
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
