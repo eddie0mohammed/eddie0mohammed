@@ -1,6 +1,6 @@
 ### Hi there, I'm Mohamed 👋
 
-Senior Frontend Engineer with a proven track record of delivering solutions in the modern JavaScript stack, including React, Next.js, Node.js, TypeScript, and GraphQL. In the last couple of years, I developed an interest in topics such as Web Performance, Frontend Architecture, and the Cloud. Always looking for the opportunity to contribute within an Agile software organization, where I can use my expertise to deliver great user experiences.
+Frontend Engineer with a proven track record of delivering solutions in the modern JavaScript stack, including React, TypeScript, and Node.js. In the last couple of years, I developed an interest in topics such as Web Performance, Frontend Architecture, and the Cloud. Always looking for the opportunity to contribute within an Agile software organization, where I can use my expertise to deliver great user experiences.
 
 [linkedin]:https://linkedin.com/in/moedun
 
