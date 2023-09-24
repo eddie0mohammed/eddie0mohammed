@@ -1,6 +1,6 @@
-### About Me:
+👨‍💻 ### About Me:
 
-👨‍💻 About me: I am a Fullstack Engineer with 5+ years of professional experience in delivering solutions in the modern JavaScript stack. Proficient in React, Next.js, Node.js, TypeScript, and GraphQL. Passionate about Web Performance, Software Architecture, and the Cloud. Collaborated with a team of 6+ engineers at Providus to improve project scalability, resulting in a substantial growth in the user base to almost 10 million monthly active users, with revenue increasing by an impressive 20%.
+I am a Fullstack Engineer with 5+ years of professional experience in delivering solutions in the modern JavaScript stack. Proficient in React, Next.js, Node.js, TypeScript, and GraphQL. Passionate about Web Performance, Software Architecture, and the Cloud. Collaborated with a team of 6+ engineers at Providus to improve project scalability, resulting in a substantial growth in the user base to almost 10 million monthly active users, with revenue increasing by an impressive 20%.
 
 🛠️ My career path has blended continuous learning, leadership, mentoring and hands-on software development. I started working as a Frontend Developer, focusing primarily on JavaScript and React. Over the years, I have progressed to the position of Fullstack Engineer, accumulating valuable experience in leading projects and mentoring junior team members. 
 
